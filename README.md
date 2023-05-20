@@ -1,7 +1,6 @@
-<h3 align="left">Hi there 👋</h1>
-
-<h3 align="left">I'm Omkar Kabde</h1>
-<h5 align="left">A CS undergraduate from Hyderabad, India</h3>
+<h2 align="left">Hi there 👋</h1>
+<h2 align="left">I'm Omkar Kabde</h1>
+<h3 align="left">A CS undergraduate from Hyderabad, India</h3>
 <h5 align="left">Connect with me:</h3>
 <p align="left">
 Email - <b>omkarkabde@gmail.com</b><br>
