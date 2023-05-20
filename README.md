@@ -1,10 +1,11 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 
-<h1 align="center">I'm Omkar Kabde</h1>
-<h3 align="center">A CS undergraduate from Hyderabad, India</h3>
+<h1 align="left">I'm Omkar Kabde</h1>
+<h3 align="left">A CS undergraduate from Hyderabad, India</h3>
+<br>
 <h5 align="left">Connect with me:</h3>
 <p align="left">
-Email - **omkarkabde@gmail.com**<br>
+Email - <b>omkarkabde@gmail.com</b><br?
 <a href="https://linkedin.com/in/omkar-kabde-1a668025b" target="blank">Linkedin</a><br>
 <a href="https://stackoverflow.com/users/21066377" target="blank">Stack Overflow</a><br>
 <a href="https://kaggle.com/omkar334" target="blank">Kaggle</a><br>
