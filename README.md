@@ -5,7 +5,7 @@
 <br>
 <h5 align="left">Connect with me:</h3>
 <p align="left">
-Email - <b>omkarkabde@gmail.com</b><br?
+Email - <b>omkarkabde@gmail.com</b><br>
 <a href="https://linkedin.com/in/omkar-kabde-1a668025b" target="blank">Linkedin</a><br>
 <a href="https://stackoverflow.com/users/21066377" target="blank">Stack Overflow</a><br>
 <a href="https://kaggle.com/omkar334" target="blank">Kaggle</a><br>
