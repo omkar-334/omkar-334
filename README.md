@@ -3,22 +3,21 @@
 <h3 align="left">A CS undergraduate from Hyderabad, India</h3>
 <h5 align="left">Connect with me:</h3>
 <p align="left">
-Email - <b>omkarkabde@gmail.com</b><br>
+<a href="omkarkabde@gmail.com" target="blank">Email</a><br><br>
 <a href="https://linkedin.com/in/omkar-kabde-1a668025b" target="blank">Linkedin</a><br>
 <a href="https://stackoverflow.com/users/21066377" target="blank">Stack Overflow</a><br>
 <a href="https://kaggle.com/omkar334" target="blank">Kaggle</a><br>
 <a href="https://www.hackerrank.com/omkar334" target="blank">Hackerrank</a>
 
 </p>
-
+<!--
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkar-334&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar-334&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 ###
-
+-->
 <br clear="both">
 
 <div align="center">
