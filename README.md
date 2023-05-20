@@ -18,8 +18,7 @@
 </div>
 ###
 -->
-<br clear="both">
-<h3 align="left">Languages / Tech -</h3>
+<h5 align="center">Languages / Tech -</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
