@@ -3,7 +3,7 @@
 <h3 align="left">A CS undergraduate from Hyderabad, India</h3>
 <h5 align="left">Connect with me:</h3>
 <p align="left">
-<a href="omkarkabde@gmail.com" target="blank">Email</a><br><br>
+<a href="omkarkabde@gmail.com" target="blank">Email</a><br>
 <a href="https://linkedin.com/in/omkar-kabde-1a668025b" target="blank">Linkedin</a><br>
 <a href="https://stackoverflow.com/users/21066377" target="blank">Stack Overflow</a><br>
 <a href="https://kaggle.com/omkar334" target="blank">Kaggle</a><br>
@@ -19,7 +19,7 @@
 ###
 -->
 <br clear="both">
-
+<h3 align="left">Languages / Tech -</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
