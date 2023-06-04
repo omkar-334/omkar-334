@@ -1,5 +1,4 @@
-
-<img src="https://render.githubusercontent.com/render/math?math=s^2 = \frac{\sum{(x-\bar{x}})^2}{N-1}">
+s^2 = \frac{\sum{(x-\bar{x}})^2}{N-1}
 <h2 align="left">Hi there 👋</h1>
 <h2 align="left">I'm Omkar Kabde</h1>
 <h3 align="left">A CS undergraduate from Hyderabad, India</h3>
