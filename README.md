@@ -1,3 +1,8 @@
+Exercise 2. When we are dealing with the sample variance we have to subtract 1 degree of freedom in the denominator.
+
+s^2 = \frac{\sum{(x-\bar{x}})^2}{N-1}
+Update your function by adding df argument that will specify how many degrees of freedom we want to subtract. Set the default value to 1 (meaning that by default it will use the formula for the sample variance).
+
 <h2 align="left">Hi there 👋</h1>
 <h2 align="left">I'm Omkar Kabde</h1>
 <h3 align="left">A CS undergraduate from Hyderabad, India</h3>
