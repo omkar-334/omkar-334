@@ -1,5 +1,4 @@
-<h2 align="left">Hi there 👋</h1>
-<h2 align="left">I'm Omkar Kabde</h1>
+<h2 align="left">Hi, I'm Omkar Kabde</h1>
 <h3 align="left">A CS undergraduate from Hyderabad, India</h3>
 <div align="center">
 <a href="https://www.hackerrank.com/omkar334" target="blank">Hackerrank</a>&nbsp;&nbsp;
