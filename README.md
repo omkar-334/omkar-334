@@ -2,8 +2,7 @@
 <h2 align="left">I'm Omkar Kabde</h1>
 <h3 align="left">A CS undergraduate from Hyderabad, India</h3>
 <div align="center">
-<a href="https://www.hackerrank.com/omkar334" target="blank">Hackerrank</a>
- <h6>       </h6>
+<a href="https://www.hackerrank.com/omkar334" target="blank">Hackerrank</a>&nbsp;&nbsp;
  <a href="https://www.codechef.com/users/omkar334" target="blank">Codechef</a>
 </div>
 <!--
