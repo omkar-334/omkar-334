@@ -3,10 +3,6 @@
 <h3 align="left">A CS undergraduate from Hyderabad, India</h3>
 <h5 align="left">Connect with me:</h3>
 <p align="left">
-<a href="omkarkabde@gmail.com" target="blank">Email</a><br>
-<a href="https://linkedin.com/in/omkar-kabde-1a668025b" target="blank">Linkedin</a><br>
-<a href="https://stackoverflow.com/users/21066377" target="blank">Stack Overflow</a><br>
-<a href="https://kaggle.com/omkar334" target="blank">Kaggle</a><br>
 <a href="https://www.hackerrank.com/omkar334" target="blank">Hackerrank</a><br>
  <a href="https://www.codechef.com/users/omkar334" target="blank">Codechef</a>
   
