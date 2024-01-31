@@ -28,6 +28,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="52" alt="selenium logo"/>
 </div>
 <div align="center">
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omkar-334&layout=compact)
+ ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-334&theme=radical&layout=compact)
 </div>
 
