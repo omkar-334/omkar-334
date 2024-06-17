@@ -26,5 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" width="52" alt="playwright logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="40" width="52" alt="puppeteer logo"/>
 </div><br><br>
-<p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omkar-334&amp;layout=donut&amp;langs_count=7&theme=transparent" alt="Language Stats"></p>
+<p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omkar-334&amp;layout=donut&amp;langs_count=10&theme=transparent" alt="Language Stats"></p>
 
