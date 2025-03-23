@@ -27,4 +27,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="40" width="52" alt="puppeteer logo"/>
 </div><br><br>
 <p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omkar-334&amp;layout=donut&amp;langs_count=10&theme=transparent" alt="Language Stats"></p>
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/omkar-334/count.svg" alt="Visitor's Count" />
+</div>
